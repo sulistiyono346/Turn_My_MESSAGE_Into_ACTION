@@ -1,7 +1,6 @@
 # turn-_-My-_-MESSAGE-_-into-_-ACTION
 Summary Six Week in Hacktiv8 
-
-1. First week 
+1.First week 
   Review about Html && Css 
   Portofolio:
   a. https://github.com/sulistiyono346/1st.github.io
@@ -37,7 +36,6 @@ Summary Six Week in Hacktiv8
     
   6. Sixth Week
     Review about Finals and JavaScript DOM
-    
     Portofolio :
-    https://github.com/sulistiyono346/h8-p0-w6
+    https://github.com/sulistiyono346/h8-p0-w5
    
