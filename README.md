@@ -8,10 +8,10 @@ Summary Six Week in Hacktiv8  *may be useful*
 
 2. Second week
    - Review :
-      a. Algorithm
-      b. Pseudocode
-      c. Looping
-      d. Conditinal
+      - Algorithm
+      - Pseudocode
+      - Looping
+      - Conditinal
    - Portofolio :
      https://github.com/sulistiyono346/h8-p0-w2
 
